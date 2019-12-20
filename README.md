@@ -1,5 +1,6 @@
 # [Machine Learning with TensorFlow](http://www.tensorflowbook.com/)
 
+# [install jupyter notebook: python3 -m pip install -i https://pypi.tuna.tsinghua.edu.cn/simple jupyter]
 [This](https://github.com/BinRoot/TensorFlow-Book) is the official code repository for [Machine Learning with TensorFlow](http://www.tensorflowbook.com/).
 
 Get started with machine learning using TensorFlow, Google's latest and greatest machine learning library.
